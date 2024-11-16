@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
-import 'package:install_plugin/install_plugin.dart';
+import 'package:install_pluginpro/install_plugin.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:updaterpro/updater.dart';
 import 'package:updaterpro/utils/constants.dart';
