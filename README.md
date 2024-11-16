@@ -1,11 +1,11 @@
-[![Version](https://img.shields.io/pub/v/updater?color=%2354C92F&logo=dart)](https://pub.dev/packages/updaterpro/install)
+[![Version](https://img.shields.io/pub/v/updaterpro?color=%2354C92F&logo=dart)](https://pub.dev/packages/updaterpro/install)
 
 A package to check for the custom in-app updates for Flutter.
 
 ## ⭐ Installing
 ```
 dependencies:
-    updaterpro: ^0.0.1
+    updaterpro: ^0.0.3
 ```
 
 ## ⚡ Import 
@@ -19,7 +19,7 @@ import 'package:updaterpro/updater.dart';
 | Supported | ✔️ |  ❌
 
 
-<img src="https://raw.githubusercontent.com/MarsadMaqsood/AppUpdate/master/assets/image.gif" alt="alt text" width="300" height="620">
+<img src="https://raw.githubusercontent.com/pharid/updaterpro/master/assets/image.gif" alt="alt text" width="300" height="620">
 
 ## Properties
 
