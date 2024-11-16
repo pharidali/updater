@@ -1,0 +1,39 @@
+name: updaterpro
+description: A package to check for the custom in-app updates for Flutter.
+version: 0.0.1
+homepage: https://github.com/pharidali/updaterpro
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+  flutter: ">=1.20.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dio: ^5.7.0
+  http: ^1.2.2
+  # open_filex: ^4.3.4
+  package_info_plus: ^8.1.1
+  path_provider: ^2.1.5
+  platform: ^3.1.6
+  install_plugin: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+  mockito: ^5.4.3
+  build_runner: ^2.4.6
+
+flutter:
+
+  plugin:
+    platforms:
+      android:
+        package: com.pharid.updaterpro
+        pluginClass: UpdaterPlugin
+      ios:
+        pluginClass: UpdaterPlugin
+  
