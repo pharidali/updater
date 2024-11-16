@@ -93,7 +93,7 @@ class _MyAppState extends State<MyApp> {
     updater = Updater(
       context: context,
       delay: const Duration(milliseconds: 300),
-      url: 'https://codingwithmarsad.web.app/updater.json',
+      url: 'https://google.com/updater.json',
       titleText: 'Stay with time',
       // backgroundDownload: false,
       allowSkip: false,
