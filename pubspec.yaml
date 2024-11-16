@@ -1,6 +1,6 @@
 name: updaterpro
 description: A package to check for the custom in-app updates for Flutter.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/pharidali/updaterpro
 
 environment:

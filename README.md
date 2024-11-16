@@ -5,7 +5,7 @@ A package to check for the custom in-app updates for Flutter.
 ## ⭐ Installing
 ```
 dependencies:
-    updaterpro: ^0.0.3
+    updaterpro: ^0.0.4
 ```
 
 ## ⚡ Import 
@@ -19,7 +19,7 @@ import 'package:updaterpro/updater.dart';
 | Supported | ✔️ |  ❌
 
 
-<img src="https://raw.githubusercontent.com/pharid/updaterpro/master/assets/image.gif" alt="alt text" width="300" height="620">
+<img src="https://raw.githubusercontent.com/pharidali/updaterpro/refs/heads/master/assets/image.gif" alt="alt text" width="300" height="620">
 
 ## Properties
 
